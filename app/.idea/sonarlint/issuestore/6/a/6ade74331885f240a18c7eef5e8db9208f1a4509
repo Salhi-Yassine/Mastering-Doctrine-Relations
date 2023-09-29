@@ -1,0 +1,13 @@
+
+U	php:S1131?"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤
+U	php:S1131L"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤
+U	php:S1131b"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤
+dphp:S103E"KSplit this 508 characters long line (which is greater than 120 authorized).(£‘Šııÿÿÿÿ
+dphp:S103H"KSplit this 504 characters long line (which is greater than 120 authorized).(£‘Šııÿÿÿÿ
+D	php:S1808P"/Remove all space after the opening parenthesis.(ùõÔÜ
+I	php:S1808X"/Remove all space after the opening parenthesis.(ÉÅ²ğøÿÿÿÿ
+rphp:S116"YRename this field "$__initializer__" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚ªŒöüÿÿÿÿ
+mphp:S116"TRename this field "$__cloner__" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(›Ìşíúÿÿÿÿ
+ophp:S116"[Rename this field "$__isInitialized__" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°âÔ
+q	php:S1192E"WDefine a constant instead of duplicating this literal "App\\Entity\\Question" 16 times.(£‘Šııÿÿÿÿ
+~	php:S1448"dClass "Question" has 37 methods, which is greater than 20 authorized. Split it into smaller classes.(‚ÚâŞşÿÿÿÿ
